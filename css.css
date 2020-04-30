@@ -1,0 +1,65 @@
+body {
+    color: transparent;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.introduzione {
+    background-color: black;
+    position: relative;
+    padding: 1vh 0vh 41vh;
+    text-align: center;
+}
+
+.disclamer {
+    background-color: white;
+    position: relative;
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 4vh 0;
+}
+
+.principale {
+    background-color: whitesmoke;
+    position: relative;
+    font-size: 1rem;
+    padding: 2vh 0vh 30vh 0vh;  
+}
+
+.four {
+    background-color: white;
+    position: relative;
+    font-size: 1rem;
+    padding: 1vh;  
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h3 {
+    color: black;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+p {
+    color: black;
+}
+
+img {
+    float: left; 
+    width: 50%; 
+    position:inherit;
+}
